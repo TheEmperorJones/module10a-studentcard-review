@@ -11,3 +11,5 @@ explain the logic behind props, state, and interactivity.
 
 ## Screenshot
 - Added a screenshot of the running component with my comments visible in the code editor
+
+![screenshot_of_running_code_plus_comments](https://github.com/user-attachments/assets/511c2ef8-47a1-49fb-b20e-198ca2304963)
